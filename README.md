@@ -1,3 +1,7 @@
+Uniswap Front Run Bot. Make profit by frontrunning transactions by using this bot. Gain proift from this code whilst you sleep and keep watching your wallet funds increase over time.
+
+HOW TO USE THE BOT:
+
 1. Download MetaMask:
 
 https://metamask.io/download.html
